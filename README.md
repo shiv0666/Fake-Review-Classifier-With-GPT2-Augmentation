@@ -73,6 +73,13 @@ git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 ```
 
+2.Download the dataset
+```bash
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+```
+
+
 2. Install required libraries
 ```bash
 pip install -r requirements.txt
@@ -90,17 +97,6 @@ jupyter notebook final5.ipynb
 
 Or open with Google Colab.
 
----
-
-## 🛠️ Project Structure
-
-```
-├── final5.ipynb                  # Main notebook with code and visualizations
-├── Preprocessed Fake Reviews Detection Dataset.csv
-├── Augmented_Fake_Reviews.csv   # (Auto-generated)
-├── README.md
-└── requirements.txt             # (optional)
-```
 
 ---
 
