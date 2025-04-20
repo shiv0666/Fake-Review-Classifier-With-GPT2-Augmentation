@@ -69,8 +69,7 @@ All graphs are generated using `matplotlib` and `seaborn`.
 
 1. Clone this repository
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+(https://www.kaggle.com/datasets/mexwell/fake-reviews-dataset)
 ```
 
 2.Download the dataset
