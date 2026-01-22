@@ -112,7 +112,9 @@ Or open with Google Colab.
 
 ## 📝 Author
 
-**Shivansh Lohani**  
+**Prathmesh durge**  
+**Ravi kumar kushwaha** 
+**Shivansh Lohani** 
 Undergraduate, Computer Science Engineering  
 This project was developed as part of the Project Based Learning(pBL) submission.
 
